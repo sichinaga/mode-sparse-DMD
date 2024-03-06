@@ -1,1 +1,1 @@
-# mode-sparse-DMD
+# DMD with sparse modes
